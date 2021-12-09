@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Set-HashSet.t
+lib/Set/HashSet.pm

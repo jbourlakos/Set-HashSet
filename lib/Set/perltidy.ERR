@@ -1,0 +1,9 @@
+Perltidy version is 20210717
+
+<stdin>: Begin Error Output Stream
+34: Unexpected ':' after package name 'package Set'
+
+There is no previous '?' to match a ':' on line 34
+34: package Set:HashSet;
+               ^
+243: To save a full .LOG file rerun with -g

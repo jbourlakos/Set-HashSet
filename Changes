@@ -1,0 +1,6 @@
+Revision history for Perl extension Set::HashSet.
+
+0.01  Thu Dec  9 14:07:02 2021
+	- original version; created by h2xs 1.23 with options
+		-AX Set::HashSet
+
